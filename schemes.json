@@ -1,0 +1,28 @@
+[
+  {
+    "scheme": "PM Kisan",
+    "occupation": "farmer",
+    "min_age": 18,
+    "max_income": 300000
+  },
+  {
+    "scheme": "PM Internship Scheme",
+    "occupation": "student",
+    "min_age": 21,
+    "max_age": 24,
+    "max_income": 800000
+  },
+  {
+    "scheme": "PM Vidyalaxmi Scheme",
+    "occupation": "student",
+    "max_income": 800000
+  },
+  {
+    "scheme": "PM Vishwakarma Yojana",
+    "occupation": "artisan"
+  },
+  {
+    "scheme": "PM SVANidhi",
+    "occupation": "vendor"
+  }
+]

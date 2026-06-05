@@ -1,6 +1,9 @@
 # 🇮🇳 GovAssist AI
 
 GovAssist AI is an AI-powered Government Scheme Recommendation System that helps users discover relevant government schemes and get answers to their queries using Retrieval-Augmented Generation (RAG).
+## 🌐 Live Demo
+
+https://govassist-ai.streamlit.app/
 
 ## 🚀 Features
 
@@ -106,7 +109,7 @@ govassist-ai/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/govassist-ai.git
+git clone https://github.com/Akshay132690/govassist-ai.git
 cd govassist-ai
 ```
 

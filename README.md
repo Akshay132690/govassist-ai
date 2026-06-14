@@ -3,8 +3,6 @@
 GovAssist AI is an AI-powered Government Scheme Recommendation System that helps users discover relevant government schemes and get answers to their queries using Retrieval-Augmented Generation (RAG).
 
 
-https://govassist-ai.streamlit.app/
-
 
 <p align="center">
   <img src="/home.png" width="900">

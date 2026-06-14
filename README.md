@@ -1,9 +1,20 @@
-# 🇮🇳 GovAssist AI
+# 🇮🇳 GovAssist AI                     [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://govassist-ai.streamlit.app/)
 
 GovAssist AI is an AI-powered Government Scheme Recommendation System that helps users discover relevant government schemes and get answers to their queries using Retrieval-Augmented Generation (RAG).
-## 🌐 Live Demo
+
 
 https://govassist-ai.streamlit.app/
+
+
+<p align="center">
+  <img src="/home.png" width="900">
+</p>
+
+
+<p align="center">
+  <img src="/askAI.png" width="900">
+</p>
+
 
 ## 🚀 Features
 

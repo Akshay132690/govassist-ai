@@ -37,7 +37,7 @@ st.markdown("""
 }
 
 .scheme-card {
-    background: white;
+    background: black;
     padding: 20px;
     border-radius: 16px;
     margin-top: 15px;

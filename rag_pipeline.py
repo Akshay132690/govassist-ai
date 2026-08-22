@@ -1,7 +1,7 @@
 from dotenv import load_dotenv
 import os
 
-from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_groq import ChatGroq
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
@@ -17,10 +17,10 @@ vectorstore = FAISS.load_local(
     allow_dangerous_deserialization=True
 )
 
-llm = ChatGoogleGenerativeAI(
-    model="gemini-2.5-flash",
-    temperature=0.2,
-    google_api_key=os.getenv("GOOGLE_API_KEY")
+llm = ChatGroq(
+    model="openai/gpt-oss-120b",
+    groq_api_key=os.getenv("GROQ_API_KEY"),
+    temperature=0.2
 )
 
 def ask_question(query):
